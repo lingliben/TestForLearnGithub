@@ -1,3 +1,5 @@
+#include "include.h"
+
 void test(void)
 {
   static uint8_t i=0;
